@@ -1,0 +1,3 @@
+- pkg:cpan/NUFFIN/Catalyst-Plugin-LeakTracker@0.01
+- pkg:cpan/NUFFIN/Catalyst-Plugin-LeakTracker@0.02
+- pkg:cpan/NUFFIN/Catalyst-Plugin-LeakTracker@0.03

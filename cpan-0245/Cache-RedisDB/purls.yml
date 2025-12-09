@@ -1,0 +1,5 @@
+- pkg:cpan/BINARY/Cache-RedisDB@0.09
+- pkg:cpan/BINARY/Cache-RedisDB@0.10
+- pkg:cpan/BINARY/Cache-RedisDB@0.11
+- pkg:cpan/BINARY/Cache-RedisDB@0.12
+- pkg:cpan/BINARY/Cache-RedisDB@0.13

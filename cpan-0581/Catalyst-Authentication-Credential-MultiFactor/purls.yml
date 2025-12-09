@@ -1,0 +1,3 @@
+- pkg:cpan/TENGU/Catalyst-Authentication-Credential-MultiFactor@1.0
+- pkg:cpan/TENGU/Catalyst-Authentication-Credential-MultiFactor@1.2
+- pkg:cpan/TENGU/Catalyst-Authentication-Credential-MultiFactor@1.2_1

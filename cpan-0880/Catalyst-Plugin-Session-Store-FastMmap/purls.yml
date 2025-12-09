@@ -1,0 +1,5 @@
+- pkg:cpan/BOBTFISH/Catalyst-Plugin-Session-Store-FastMmap@0.08
+- pkg:cpan/BOBTFISH/Catalyst-Plugin-Session-Store-FastMmap@0.09
+- pkg:cpan/BOBTFISH/Catalyst-Plugin-Session-Store-FastMmap@0.10
+- pkg:cpan/BOBTFISH/Catalyst-Plugin-Session-Store-FastMmap@0.11
+- pkg:cpan/BOBTFISH/Catalyst-Plugin-Session-Store-FastMmap@0.16
