@@ -1,0 +1,4 @@
+- pkg:cpan/AuthenRadius/Apache2-AuthenRadius@0.6
+- pkg:cpan/AuthenRadius/Apache2-AuthenRadius@0.7
+- pkg:cpan/AuthenRadius/Apache2-AuthenRadius@0.8
+- pkg:cpan/AuthenRadius/Apache2-AuthenRadius@0.9

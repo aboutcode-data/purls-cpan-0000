@@ -1,0 +1,7 @@
+- pkg:cpan/MONS/AnyEvent-Memcached@0.01_6
+- pkg:cpan/MONS/AnyEvent-Memcached@0.02
+- pkg:cpan/MONS/AnyEvent-Memcached@0.03
+- pkg:cpan/MONS/AnyEvent-Memcached@0.04
+- pkg:cpan/MONS/AnyEvent-Memcached@0.05
+- pkg:cpan/MONS/AnyEvent-Memcached@0.06
+- pkg:cpan/MONS/AnyEvent-Memcached@0.08

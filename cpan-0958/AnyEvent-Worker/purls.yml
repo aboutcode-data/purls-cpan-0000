@@ -1,0 +1,4 @@
+- pkg:cpan/MONS/AnyEvent-Worker@0.03
+- pkg:cpan/MONS/AnyEvent-Worker@0.04
+- pkg:cpan/MONS/AnyEvent-Worker@0.05
+- pkg:cpan/MONS/AnyEvent-Worker@0.06

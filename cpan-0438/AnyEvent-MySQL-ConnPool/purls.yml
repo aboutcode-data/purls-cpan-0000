@@ -1,0 +1,4 @@
+- pkg:cpan/JUSTNOXX/AnyEvent-MySQL-ConnPool@0.04
+- pkg:cpan/JUSTNOXX/AnyEvent-MySQL-ConnPool@0.05
+- pkg:cpan/JUSTNOXX/AnyEvent-MySQL-ConnPool@0.06
+- pkg:cpan/JUSTNOXX/AnyEvent-MySQL-ConnPool@0.07

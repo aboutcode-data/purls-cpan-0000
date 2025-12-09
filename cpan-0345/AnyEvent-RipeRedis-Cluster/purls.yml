@@ -1,0 +1,17 @@
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.02
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.04
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.06
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.08
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.10
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.12
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.14
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.16
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.18
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.20
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.22
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.24
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.26
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.28
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.29_01
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.30
+- pkg:cpan/IPH/AnyEvent-RipeRedis-Cluster@0.32
