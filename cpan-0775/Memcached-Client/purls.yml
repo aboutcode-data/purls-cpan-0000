@@ -1,0 +1,3 @@
+- pkg:cpan/MDORMAN/Memcached-Client@1.07
+- pkg:cpan/MDORMAN/Memcached-Client@2.00
+- pkg:cpan/MDORMAN/Memcached-Client@2.01

@@ -1,0 +1,8 @@
+- pkg:cpan/mikrotik/MikroTik-Client@v0.500
+- pkg:cpan/mikrotik/MikroTik-Client@v0.501
+- pkg:cpan/mikrotik/MikroTik-Client@v0.520
+- pkg:cpan/mikrotik/MikroTik-Client@v0.530
+- pkg:cpan/mikrotik/MikroTik-Client@v0.601
+- pkg:cpan/mikrotik/MikroTik-Client@v0.610
+- pkg:cpan/mikrotik/MikroTik-Client@v0.611
+- pkg:cpan/mikrotik/MikroTik-Client@v0.612

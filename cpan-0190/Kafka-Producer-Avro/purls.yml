@@ -1,0 +1,4 @@
+- pkg:cpan/ALVAROL/Kafka-Producer-Avro@0.01
+- pkg:cpan/ALVAROL/Kafka-Producer-Avro@0.02
+- pkg:cpan/ALVAROL/Kafka-Producer-Avro@v1.0.0
+- pkg:cpan/ALVAROL/Kafka-Producer-Avro@v1.0.1
