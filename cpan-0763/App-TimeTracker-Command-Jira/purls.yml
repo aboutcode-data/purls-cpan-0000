@@ -5,3 +5,6 @@
 - pkg:cpan/PEPL/App-TimeTracker-Command-Jira@0.6
 - pkg:cpan/PEPL/App-TimeTracker-Command-Jira@0.7
 - pkg:cpan/PEPL/App-TimeTracker-Command-Jira@0.8
+- pkg:cpan/PEPL/App-TimeTracker-Command-Jira@0.9
+- pkg:cpan/PEPL/App-TimeTracker-Command-Jira@1.0
+- pkg:cpan/PEPL/App-TimeTracker-Command-Jira@1.1
