@@ -1,0 +1,2 @@
+- pkg:cpan/KAZEBURO/Plack-Middleware-DBIx-DisconnectAll@0.01
+- pkg:cpan/KAZEBURO/Plack-Middleware-DBIx-DisconnectAll@0.02

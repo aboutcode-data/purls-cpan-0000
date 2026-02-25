@@ -1,0 +1,3 @@
+- pkg:cpan/CHIM/Plack-Middleware-Debug-Redis@0.01
+- pkg:cpan/CHIM/Plack-Middleware-Debug-Redis@0.02
+- pkg:cpan/CHIM/Plack-Middleware-Debug-Redis@0.03

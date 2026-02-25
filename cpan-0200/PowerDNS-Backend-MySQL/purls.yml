@@ -1,0 +1,5 @@
+- pkg:cpan/AUGIE/PowerDNS-Backend-MySQL@0.09
+- pkg:cpan/AUGIE/PowerDNS-Backend-MySQL@0.10
+- pkg:cpan/AUGIE/PowerDNS-Backend-MySQL@0.10a
+- pkg:cpan/AUGIE/PowerDNS-Backend-MySQL@0.11
+- pkg:cpan/AUGIE/PowerDNS-Backend-MySQL@0.12

@@ -1,0 +1,4 @@
+- pkg:cpan/MIYAGAWA/Plack-Middleware-Deflater@0.02
+- pkg:cpan/MIYAGAWA/Plack-Middleware-Deflater@0.03
+- pkg:cpan/MIYAGAWA/Plack-Middleware-Deflater@0.13
+- pkg:cpan/MIYAGAWA/Plack-Middleware-Deflater@0.14

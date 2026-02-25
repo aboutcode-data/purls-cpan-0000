@@ -1,0 +1,2 @@
+- pkg:cpan/VOJ/Plack-Middleware-SuppressResponseCodes@0.1
+- pkg:cpan/VOJ/Plack-Middleware-SuppressResponseCodes@0.2

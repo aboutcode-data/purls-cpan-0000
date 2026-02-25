@@ -1,0 +1,4 @@
+- pkg:cpan/CHIM/Plack-Middleware-Throttle-Lite-Backend-Redis@0.01
+- pkg:cpan/CHIM/Plack-Middleware-Throttle-Lite-Backend-Redis@0.02
+- pkg:cpan/CHIM/Plack-Middleware-Throttle-Lite-Backend-Redis@0.03
+- pkg:cpan/CHIM/Plack-Middleware-Throttle-Lite-Backend-Redis@0.04

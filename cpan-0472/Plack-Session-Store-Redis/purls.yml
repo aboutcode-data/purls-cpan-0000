@@ -1,0 +1,4 @@
+- pkg:cpan/LEEDO/Plack-Session-Store-Redis@0.02
+- pkg:cpan/LEEDO/Plack-Session-Store-Redis@0.03
+- pkg:cpan/LEEDO/Plack-Session-Store-Redis@0.04
+- pkg:cpan/LEEDO/Plack-Session-Store-Redis@0.05

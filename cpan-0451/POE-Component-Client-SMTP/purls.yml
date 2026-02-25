@@ -1,0 +1,3 @@
+- pkg:cpan/ULTRADM/POE-Component-Client-SMTP@0.20
+- pkg:cpan/ULTRADM/POE-Component-Client-SMTP@0.21
+- pkg:cpan/ULTRADM/POE-Component-Client-SMTP@0.22

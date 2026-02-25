@@ -1,0 +1,3 @@
+- pkg:cpan/UTGWKK/Perl-Critic-Policy-ControlStructures-ProhibitReturnInDoBlock@0.01
+- pkg:cpan/UTGWKK/Perl-Critic-Policy-ControlStructures-ProhibitReturnInDoBlock@0.02
+- pkg:cpan/UTGWKK/Perl-Critic-Policy-ControlStructures-ProhibitReturnInDoBlock@0.03

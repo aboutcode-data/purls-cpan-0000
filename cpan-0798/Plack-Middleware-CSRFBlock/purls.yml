@@ -1,0 +1,5 @@
+- pkg:cpan/MATTP/Plack-Middleware-CSRFBlock@0.06
+- pkg:cpan/MATTP/Plack-Middleware-CSRFBlock@0.07
+- pkg:cpan/MATTP/Plack-Middleware-CSRFBlock@0.08
+- pkg:cpan/MATTP/Plack-Middleware-CSRFBlock@0.09
+- pkg:cpan/MATTP/Plack-Middleware-CSRFBlock@0.10

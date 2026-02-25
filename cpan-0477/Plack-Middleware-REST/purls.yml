@@ -1,0 +1,4 @@
+- pkg:cpan/VOJ/Plack-Middleware-REST@0.01
+- pkg:cpan/VOJ/Plack-Middleware-REST@0.02
+- pkg:cpan/VOJ/Plack-Middleware-REST@0.03
+- pkg:cpan/VOJ/Plack-Middleware-REST@0.10
