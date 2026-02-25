@@ -84,3 +84,5 @@
 - pkg:cpan/SHAY/perl@5.40.3.tar.xz
 - pkg:cpan/SHAY/perl@5.41.8
 - pkg:cpan/SHAY/perl@5.41.8.tar.xz
+- pkg:cpan/SHAY/perl@5.43.6
+- pkg:cpan/SHAY/perl@5.43.6.tar.xz

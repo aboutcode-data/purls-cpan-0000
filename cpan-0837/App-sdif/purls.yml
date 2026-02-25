@@ -77,6 +77,9 @@
 - pkg:cpan/UTASHIRO/App-sdif@4.4.0
 - pkg:cpan/UTASHIRO/App-sdif@4.40
 - pkg:cpan/UTASHIRO/App-sdif@4.41
+- pkg:cpan/UTASHIRO/App-sdif@4.42
+- pkg:cpan/UTASHIRO/App-sdif@4.43
+- pkg:cpan/UTASHIRO/App-sdif@4.44
 - pkg:cpan/UTASHIRO/App-sdif@4.5.0
 - pkg:cpan/UTASHIRO/App-sdif@4.5.1
 - pkg:cpan/UTASHIRO/App-sdif@4.5.2

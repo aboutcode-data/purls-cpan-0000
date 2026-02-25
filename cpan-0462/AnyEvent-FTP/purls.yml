@@ -1,1 +1,2 @@
 - pkg:cpan/PLICEASE/AnyEvent-FTP@0.19
+- pkg:cpan/PLICEASE/AnyEvent-FTP@0.20

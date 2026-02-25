@@ -1,8 +1,1 @@
-- pkg:cpan/IBB/Acme-Damn@0.02
-- pkg:cpan/IBB/Acme-Damn@0.03
-- pkg:cpan/IBB/Acme-Damn@0.04
-- pkg:cpan/IBB/Acme-Damn@0.05
-- pkg:cpan/IBB/Acme-Damn@0.06
-- pkg:cpan/IBB/Acme-Damn@0.06.1
-- pkg:cpan/IBB/Acme-Damn@0.07
-- pkg:cpan/IBB/Acme-Damn@0.08
+- pkg:cpan/BRTASTIC/Acme-Damn@0.09

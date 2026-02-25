@@ -2,3 +2,5 @@
 - pkg:cpan/DUNCS/App-ClusterSSH@4.15
 - pkg:cpan/DUNCS/App-ClusterSSH@4.16
 - pkg:cpan/DUNCS/App-ClusterSSH@4.18
+- pkg:cpan/DUNCS/App-ClusterSSH@4.18_01
+- pkg:cpan/DUNCS/App-ClusterSSH@4.18_03

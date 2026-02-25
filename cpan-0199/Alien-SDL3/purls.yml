@@ -3,3 +3,5 @@
 - pkg:cpan/SANKO/Alien-SDL3@0.03
 - pkg:cpan/SANKO/Alien-SDL3@0.04
 - pkg:cpan/SANKO/Alien-SDL3@0.05
+- pkg:cpan/SANKO/Alien-SDL3@v2.28.0
+- pkg:cpan/SANKO/Alien-SDL3@v3.4.2
