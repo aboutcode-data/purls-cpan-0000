@@ -1,0 +1,12 @@
+- pkg:cpan/AGENT/Test-Nginx@0.19
+- pkg:cpan/AGENT/Test-Nginx@0.20
+- pkg:cpan/AGENT/Test-Nginx@0.21
+- pkg:cpan/AGENT/Test-Nginx@0.22
+- pkg:cpan/AGENT/Test-Nginx@0.23
+- pkg:cpan/AGENT/Test-Nginx@0.24
+- pkg:cpan/AGENT/Test-Nginx@0.25
+- pkg:cpan/AGENT/Test-Nginx@0.26
+- pkg:cpan/AGENT/Test-Nginx@0.27
+- pkg:cpan/AGENT/Test-Nginx@0.28
+- pkg:cpan/AGENT/Test-Nginx@0.29
+- pkg:cpan/AGENT/Test-Nginx@0.30

@@ -1,0 +1,4 @@
+- pkg:cpan/Test-HTTP/Test-HTTP@0.08
+- pkg:cpan/Test-HTTP/Test-HTTP@0.09
+- pkg:cpan/Test-HTTP/Test-HTTP@0.11
+- pkg:cpan/Test-HTTP/Test-HTTP@0.22
