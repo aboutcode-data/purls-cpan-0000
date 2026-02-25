@@ -1,0 +1,4 @@
+- pkg:cpan/MAXMIND/Geo-IP@1.44
+- pkg:cpan/MAXMIND/Geo-IP@1.45
+- pkg:cpan/MAXMIND/Geo-IP@1.50
+- pkg:cpan/MAXMIND/Geo-IP@1.51
