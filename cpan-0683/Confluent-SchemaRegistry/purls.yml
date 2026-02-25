@@ -1,0 +1,4 @@
+- pkg:cpan/ALVAROL/Confluent-SchemaRegistry@0.02
+- pkg:cpan/ALVAROL/Confluent-SchemaRegistry@0.03
+- pkg:cpan/ALVAROL/Confluent-SchemaRegistry@0.04
+- pkg:cpan/ALVAROL/Confluent-SchemaRegistry@v1.0.0
