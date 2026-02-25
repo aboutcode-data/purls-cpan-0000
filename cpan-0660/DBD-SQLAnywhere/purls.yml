@@ -1,0 +1,4 @@
+- pkg:cpan/SMIRNIOS/DBD-SQLAnywhere@1.16
+- pkg:cpan/SMIRNIOS/DBD-SQLAnywhere@2.08
+- pkg:cpan/SMIRNIOS/DBD-SQLAnywhere@2.12
+- pkg:cpan/SMIRNIOS/DBD-SQLAnywhere@2.13

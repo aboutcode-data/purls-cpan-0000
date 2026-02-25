@@ -1,0 +1,5 @@
+- pkg:cpan/GETTY/Dist-Zilla-Plugin-TravisCI@0.009
+- pkg:cpan/GETTY/Dist-Zilla-Plugin-TravisCI@0.011
+- pkg:cpan/GETTY/Dist-Zilla-Plugin-TravisCI@0.012
+- pkg:cpan/GETTY/Dist-Zilla-Plugin-TravisCI@0.013
+- pkg:cpan/GETTY/Dist-Zilla-Plugin-TravisCI@0.014

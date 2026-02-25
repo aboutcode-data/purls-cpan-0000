@@ -1,0 +1,4 @@
+- pkg:cpan/BINARY/DataDog-DogStatsd@0.04
+- pkg:cpan/BINARY/DataDog-DogStatsd@0.05
+- pkg:cpan/BINARY/DataDog-DogStatsd@0.06
+- pkg:cpan/BINARY/DataDog-DogStatsd@0.07

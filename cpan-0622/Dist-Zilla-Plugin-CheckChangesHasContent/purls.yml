@@ -1,0 +1,4 @@
+- pkg:cpan/DAGOLDEN/Dist-Zilla-Plugin-CheckChangesHasContent@0.008
+- pkg:cpan/DAGOLDEN/Dist-Zilla-Plugin-CheckChangesHasContent@0.009
+- pkg:cpan/DAGOLDEN/Dist-Zilla-Plugin-CheckChangesHasContent@0.010
+- pkg:cpan/DAGOLDEN/Dist-Zilla-Plugin-CheckChangesHasContent@0.011

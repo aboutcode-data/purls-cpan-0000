@@ -1,0 +1,3 @@
+- pkg:cpan/DROLSKY/Dist-Zilla-Plugin-Conflicts@0.18
+- pkg:cpan/DROLSKY/Dist-Zilla-Plugin-Conflicts@0.19
+- pkg:cpan/DROLSKY/Dist-Zilla-Plugin-Conflicts@0.20

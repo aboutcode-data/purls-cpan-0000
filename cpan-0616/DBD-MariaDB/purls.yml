@@ -1,0 +1,9 @@
+- pkg:cpan/PALI/DBD-MariaDB@0.90_01
+- pkg:cpan/PALI/DBD-MariaDB@1.00
+- pkg:cpan/PALI/DBD-MariaDB@1.10
+- pkg:cpan/PALI/DBD-MariaDB@1.11
+- pkg:cpan/PALI/DBD-MariaDB@1.20
+- pkg:cpan/PALI/DBD-MariaDB@1.21
+- pkg:cpan/PALI/DBD-MariaDB@1.22
+- pkg:cpan/PALI/DBD-MariaDB@1.23
+- pkg:cpan/PALI/DBD-MariaDB@1.24

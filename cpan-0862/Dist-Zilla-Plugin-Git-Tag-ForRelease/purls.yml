@@ -1,0 +1,5 @@
+- pkg:cpan/SWESTRUP/Dist-Zilla-Plugin-Git-Tag-ForRelease@0.01
+- pkg:cpan/SWESTRUP/Dist-Zilla-Plugin-Git-Tag-ForRelease@0.02
+- pkg:cpan/SWESTRUP/Dist-Zilla-Plugin-Git-Tag-ForRelease@0.03
+- pkg:cpan/SWESTRUP/Dist-Zilla-Plugin-Git-Tag-ForRelease@0.04
+- pkg:cpan/SWESTRUP/Dist-Zilla-Plugin-Git-Tag-ForRelease@v0.05
