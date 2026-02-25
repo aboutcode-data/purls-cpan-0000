@@ -1,0 +1,4 @@
+- pkg:cpan/SYBER/XS-libboost-mini@1.68.0.0
+- pkg:cpan/SYBER/XS-libboost-mini@1.69.0.0
+- pkg:cpan/SYBER/XS-libboost-mini@1.76.0.0
+- pkg:cpan/SYBER/XS-libboost-mini@1.87.0.0
