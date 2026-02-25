@@ -1,0 +1,4 @@
+- pkg:cpan/SMTP/TipJar-MTA@0.14
+- pkg:cpan/SMTP/TipJar-MTA@0.21
+- pkg:cpan/SMTP/TipJar-MTA@0.33
+- pkg:cpan/SMTP/TipJar-MTA@0.34

@@ -1,0 +1,6 @@
+- pkg:cpan/DGL/Tie-Redis@0.21
+- pkg:cpan/DGL/Tie-Redis@0.22_1
+- pkg:cpan/DGL/Tie-Redis@0.23
+- pkg:cpan/DGL/Tie-Redis@0.24
+- pkg:cpan/DGL/Tie-Redis@0.25
+- pkg:cpan/DGL/Tie-Redis@0.26

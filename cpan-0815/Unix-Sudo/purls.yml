@@ -1,0 +1,5 @@
+- pkg:cpan/DCANTRELL/Unix-Sudo@1
+- pkg:cpan/DCANTRELL/Unix-Sudo@2
+- pkg:cpan/DCANTRELL/Unix-Sudo@4
+- pkg:cpan/DCANTRELL/Unix-Sudo@4.567.89
+- pkg:cpan/DCANTRELL/Unix-Sudo@65535
