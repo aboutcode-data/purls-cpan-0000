@@ -1,0 +1,4 @@
+- pkg:cpan/Nginx/Nginx-ReadBody@0.04
+- pkg:cpan/Nginx/Nginx-ReadBody@0.05
+- pkg:cpan/Nginx/Nginx-ReadBody@0.06
+- pkg:cpan/Nginx/Nginx-ReadBody@0.07

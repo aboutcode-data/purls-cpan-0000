@@ -1,0 +1,2 @@
+- pkg:cpan/MINIMAL/Mojolicious-Plugin-Bcrypt@0.04
+- pkg:cpan/MINIMAL/Mojolicious-Plugin-Bcrypt@0.14

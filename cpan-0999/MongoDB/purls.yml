@@ -1,0 +1,16 @@
+- pkg:cpan/MONGODB/MongoDB@v1.0.4
+- pkg:cpan/MONGODB/MongoDB@v1.2.3
+- pkg:cpan/MONGODB/MongoDB@v1.4.5
+- pkg:cpan/MONGODB/MongoDB@v1.6.0
+- pkg:cpan/MONGODB/MongoDB@v1.6.1
+- pkg:cpan/MONGODB/MongoDB@v1.8.0
+- pkg:cpan/MONGODB/MongoDB@v1.8.1
+- pkg:cpan/MONGODB/MongoDB@v1.8.2
+- pkg:cpan/MONGODB/MongoDB@v1.8.3
+- pkg:cpan/MONGODB/MongoDB@v2.0.0
+- pkg:cpan/MONGODB/MongoDB@v2.0.1
+- pkg:cpan/MONGODB/MongoDB@v2.0.2
+- pkg:cpan/MONGODB/MongoDB@v2.0.3
+- pkg:cpan/MONGODB/MongoDB@v2.2.0
+- pkg:cpan/MONGODB/MongoDB@v2.2.1
+- pkg:cpan/MONGODB/MongoDB@v2.2.2

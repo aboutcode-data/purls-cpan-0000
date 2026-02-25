@@ -1,0 +1,10 @@
+- pkg:cpan/GROUSSE/Net-Nessus-REST@0.1
+- pkg:cpan/GROUSSE/Net-Nessus-REST@0.2
+- pkg:cpan/GROUSSE/Net-Nessus-REST@0.3
+- pkg:cpan/GROUSSE/Net-Nessus-REST@0.4
+- pkg:cpan/GROUSSE/Net-Nessus-REST@0.5
+- pkg:cpan/GROUSSE/Net-Nessus-REST@0.6
+- pkg:cpan/GROUSSE/Net-Nessus-REST@v0.5.1
+- pkg:cpan/GROUSSE/Net-Nessus-REST@v0.5.2
+- pkg:cpan/GROUSSE/Net-Nessus-REST@v0.6.1
+- pkg:cpan/GROUSSE/Net-Nessus-REST@v0.7.0
